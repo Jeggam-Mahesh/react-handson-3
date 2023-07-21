@@ -1,3 +1,11 @@
+
+body{
+    /* background-color: rgb(225, 222, 177); */
+    background-image: linear-gradient(skyblue,rgb(227, 163, 195),rgb(202, 223, 231));
+background-size: cover;
+background-repeat: no-repeat;
+min-height: 100vh;
+}
 input{
     text-align: center;
     height:30px;
@@ -50,9 +58,7 @@ h1{
     color: brown;
     text-decoration: underline;
 }
-body{
-    background-color: rgb(225, 222, 177);
-}
+
 h2{
     padding: 10px;
 }
